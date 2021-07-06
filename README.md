@@ -1,7 +1,7 @@
 # news_feed
 Building a New Feed App with Vue JS
 
-find the live site here:
+find the live site here: https://ndenys650.github.io/news_feed/
 
 Vue Ecosystem used:
 
